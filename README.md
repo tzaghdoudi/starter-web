@@ -1,2 +1,2 @@
 # starter-web
-Mon Joli Projet est trop bien vraiment je t'assure
+Mon Joli Projet est trop bien vraiment je t'assure !
